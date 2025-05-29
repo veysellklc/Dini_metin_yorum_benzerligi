@@ -21,7 +21,7 @@ TurkishStemmer (TurkishStemmer): Türkçe metinlerde kök bulma (stemleme) işle
 
 # Projeyi Çalıştırma Adımları
 Bu repoyu bilgisayarınıza klonlayın:
-git clone https://github.com/kullaniciadi/proje-adi.git
+git clone https://github.com/veysellklc/Dini_metin_yorum_benzerligi/tree/main
 cd proje-adi
 
 Gerekli kütüphaneleri yüklemek için bir sanal ortam oluşturun ve bağımlılıkları yükleyin:
