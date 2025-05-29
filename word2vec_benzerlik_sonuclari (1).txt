@@ -1,0 +1,672 @@
+
+
+📌 MODEL: kuran_stemmed_cbow_win2_dim100.model
+🔍 Giriş metni: san indirilen iman eder sen önç indirilen ahire bun kesinlik iman eder
+
+🔝 En benzer 5 cümle:
+
+Skor: 0.8205
+onlar ilim derinleş olan iman eden san indirilen sen önç indirilen iman eder namaz kılan zeka veren allah ahiret gün iman eden iş onlar büyük mükafat verecek
+
+Skor: 0.8001
+onlar allah indirt on iman et denildik zaman kent indirilen iman eder der on başka inkâr eder oys yan tevra tasdik e gerçek vahiy o onlar pek madem gerçek mümi sizs önç allah peygamber öldürüyor
+
+Skor: 0.7794
+on kurândan önç kendi kitap verdik on iman eder
+
+Skor: 0.7774
+elif lâm mîm ra iş bun san kitap âyetleridir san rabbin indirilen hak lâkin insan çok iman etmez
+
+Skor: 0.7760
+kendi kitap verdik san indirilen vahiy le sevinç duyuyor bun beraber hizipleşen âyetlerin kısm inkâr eden var allah kulluk etmek on şirk koşmamak emrol on davet ediyor dönüş ona
+
+
+📌 MODEL: kuran_stemmed_skipgram_win2_dim100.model
+🔍 Giriş metni: san indirilen iman eder sen önç indirilen ahire bun kesinlik iman eder
+
+🔝 En benzer 5 cümle:
+
+Skor: 0.8712
+onlar ilim derinleş olan iman eden san indirilen sen önç indirilen iman eder namaz kılan zeka veren allah ahiret gün iman eden iş onlar büyük mükafat verecek
+
+Skor: 0.8501
+ey iman eden allah peygamber peygamber indirdik kitap önç indirdik kitap iman et allah melek kitap peygamber ahiret gün inkâr eder sapıklık koyu düş
+
+Skor: 0.8390
+onlar allah indirt on iman et denildik zaman kent indirilen iman eder der on başka inkâr eder oys yan tevra tasdik e gerçek vahiy o onlar pek madem gerçek mümi sizs önç allah peygamber öldürüyor
+
+Skor: 0.8327
+ey rabp sen indirdik iman et peygamber u ar biz şahit beraber yaz
+
+Skor: 0.8272
+ey şanl resul rabbin san indirilen tebliğ et eğer bun yapmaz on peygamberlik görev yapma olur allah sen insan korur doğru allah kâfirler toplum doğr yol iletmez
+
+
+📌 MODEL: kuran_stemmed_cbow_win4_dim100.model
+🔍 Giriş metni: san indirilen iman eder sen önç indirilen ahire bun kesinlik iman eder
+
+🔝 En benzer 5 cümle:
+
+Skor: 0.7658
+onlar ilim derinleş olan iman eden san indirilen sen önç indirilen iman eder namaz kılan zeka veren allah ahiret gün iman eden iş onlar büyük mükafat verecek
+
+Skor: 0.7633
+onlar allah indirt on iman et denildik zaman kent indirilen iman eder der on başka inkâr eder oys yan tevra tasdik e gerçek vahiy o onlar pek madem gerçek mümi sizs önç allah peygamber öldürüyor
+
+Skor: 0.7343
+ey şanl resul rabbin san indirilen tebliğ et eğer bun yapmaz on peygamberlik görev yapma olur allah sen insan korur doğru allah kâfirler toplum doğr yol iletmez
+
+Skor: 0.7285
+peygamber rabbin kendi indirilt on iman ett mümin allah melek kitap peygamber iman etti allah peygamber ara ayır yapma du itaat et ey rabp bağışlaman diler dönüş sana dedi
+
+Skor: 0.7276
+gerçek allah melek peygamber salât eder ey iman eden on teslimiyet salât selâm et
+
+
+📌 MODEL: kuran_stemmed_skipgram_win4_dim100.model
+🔍 Giriş metni: san indirilen iman eder sen önç indirilen ahire bun kesinlik iman eder
+
+🔝 En benzer 5 cümle:
+
+Skor: 0.8627
+onlar ilim derinleş olan iman eden san indirilen sen önç indirilen iman eder namaz kılan zeka veren allah ahiret gün iman eden iş onlar büyük mükafat verecek
+
+Skor: 0.8311
+ey kitap ehl sade allah biz indirilen biz önç indirilen inandık biz hoşlanmıyor oys çok yol çıkmış
+
+Skor: 0.8214
+onlar allah indirt on iman et denildik zaman kent indirilen iman eder der on başka inkâr eder oys yan tevra tasdik e gerçek vahiy o onlar pek madem gerçek mümi sizs önç allah peygamber öldürüyor
+
+Skor: 0.8188
+ey kitap ehl tevra inci rabp siz indirilen uygulamadıkç esas üzer değil şüphes rabbin san indirilen onlar çoğu azgınlık inkârını artıracak halde kâfir olan topl üzül
+
+Skor: 0.8152
+on kurândan önç kendi kitap verdik on iman eder
+
+
+📌 MODEL: kuran_stemmed_cbow_win2_dim300.model
+🔍 Giriş metni: san indirilen iman eder sen önç indirilen ahire bun kesinlik iman eder
+
+🔝 En benzer 5 cümle:
+
+Skor: 0.8033
+onlar ilim derinleş olan iman eden san indirilen sen önç indirilen iman eder namaz kılan zeka veren allah ahiret gün iman eden iş onlar büyük mükafat verecek
+
+Skor: 0.7782
+onlar allah indirt on iman et denildik zaman kent indirilen iman eder der on başka inkâr eder oys yan tevra tasdik e gerçek vahiy o onlar pek madem gerçek mümi sizs önç allah peygamber öldürüyor
+
+Skor: 0.7585
+ey iman eden allah peygamber peygamber indirdik kitap önç indirdik kitap iman et allah melek kitap peygamber ahiret gün inkâr eder sapıklık koyu düş
+
+Skor: 0.7457
+gerçek allah melek peygamber salât eder ey iman eden on teslimiyet salât selâm et
+
+Skor: 0.7456
+ümmet şeriat tayi et onun amel eder bun ey muhammed konu sen hiçbir zaman çekişmes insan rabbin ibadet etme çağır şüphes gerçek hidaye götüren doğr yol üzer
+
+
+📌 MODEL: kuran_stemmed_skipgram_win2_dim300.model
+🔍 Giriş metni: san indirilen iman eder sen önç indirilen ahire bun kesinlik iman eder
+
+🔝 En benzer 5 cümle:
+
+Skor: 0.8502
+onlar ilim derinleş olan iman eden san indirilen sen önç indirilen iman eder namaz kılan zeka veren allah ahiret gün iman eden iş onlar büyük mükafat verecek
+
+Skor: 0.8004
+ey iman eden allah peygamber peygamber indirdik kitap önç indirdik kitap iman et allah melek kitap peygamber ahiret gün inkâr eder sapıklık koyu düş
+
+Skor: 0.7995
+onlar allah indirt on iman et denildik zaman kent indirilen iman eder der on başka inkâr eder oys yan tevra tasdik e gerçek vahiy o onlar pek madem gerçek mümi sizs önç allah peygamber öldürüyor
+
+Skor: 0.7920
+elif lâm mîm ra iş bun san kitap âyetleridir san rabbin indirilen hak lâkin insan çok iman etmez
+
+Skor: 0.7841
+dünya isteyen rabbin açık belge üzer olan kims mi belge yin allah gelen şahid olarak kurân izliyor on önç rehber rahmet olan kitap musa kitap yin on destekliyor böyl olan kurâna inanır hangi hizip olur ols on inkâr eder on vaad edilen yer ateş iş bütün bun dola kurândan şüph iç olm kesinlik hak rabbin insan çok iman etmez
+
+
+📌 MODEL: kuran_stemmed_cbow_win4_dim300.model
+🔍 Giriş metni: san indirilen iman eder sen önç indirilen ahire bun kesinlik iman eder
+
+🔝 En benzer 5 cümle:
+
+Skor: 0.7582
+onlar ilim derinleş olan iman eden san indirilen sen önç indirilen iman eder namaz kılan zeka veren allah ahiret gün iman eden iş onlar büyük mükafat verecek
+
+Skor: 0.7388
+onlar allah indirt on iman et denildik zaman kent indirilen iman eder der on başka inkâr eder oys yan tevra tasdik e gerçek vahiy o onlar pek madem gerçek mümi sizs önç allah peygamber öldürüyor
+
+Skor: 0.7079
+gerçek allah melek peygamber salât eder ey iman eden on teslimiyet salât selâm et
+
+Skor: 0.6960
+on kurândan önç kendi kitap verdik on iman eder
+
+Skor: 0.6901
+ey şanl resul rabbin san indirilen tebliğ et eğer bun yapmaz on peygamberlik görev yapma olur allah sen insan korur doğru allah kâfirler toplum doğr yol iletmez
+
+
+📌 MODEL: kuran_stemmed_skipgram_win4_dim300.model
+🔍 Giriş metni: san indirilen iman eder sen önç indirilen ahire bun kesinlik iman eder
+
+🔝 En benzer 5 cümle:
+
+Skor: 0.8453
+onlar ilim derinleş olan iman eden san indirilen sen önç indirilen iman eder namaz kılan zeka veren allah ahiret gün iman eden iş onlar büyük mükafat verecek
+
+Skor: 0.7764
+onlar allah indirt on iman et denildik zaman kent indirilen iman eder der on başka inkâr eder oys yan tevra tasdik e gerçek vahiy o onlar pek madem gerçek mümi sizs önç allah peygamber öldürüyor
+
+Skor: 0.7611
+ey kitap ehl tevra inci rabp siz indirilen uygulamadıkç esas üzer değil şüphes rabbin san indirilen onlar çoğu azgınlık inkârını artıracak halde kâfir olan topl üzül
+
+Skor: 0.7565
+ey şanl resul rabbin san indirilen tebliğ et eğer bun yapmaz on peygamberlik görev yapma olur allah sen insan korur doğru allah kâfirler toplum doğr yol iletmez
+
+Skor: 0.7514
+dünya isteyen rabbin açık belge üzer olan kims mi belge yin allah gelen şahid olarak kurân izliyor on önç rehber rahmet olan kitap musa kitap yin on destekliyor böyl olan kurâna inanır hangi hizip olur ols on inkâr eder on vaad edilen yer ateş iş bütün bun dola kurândan şüph iç olm kesinlik hak rabbin insan çok iman etmez
+
+
+📌 MODEL: kuran_lemmatized_cbow_win2_dim100.model
+🔍 Giriş metni: ve o ki hem sen indirilene iman et hem sen önce in ahiret de bu kesinlik iman et
+
+🔝 En benzer 5 cümle:
+
+Skor: 0.8788
+o allah ne in i o iman et de zaman o biz kendi in iman et de ve o başka inkâr et oysa yan ki tevrat tasdik et gerçek vahiy odur o de ki peki madem gerçek mümin sizs de ne diye daha önce allahın peygamber öl
+
+Skor: 0.8767
+fakat o ilim derinleş olan ve iman eden sen indirilene ve sen önce in iman et o namaz kıl zekat ver allaha ve ahiret gün iman eden i işte o büyük bir mükafat ver
+
+Skor: 0.8672
+ey peygamber insan azap gel gün ile korkut o gün zalim şöyle de ey rabbimiz biz yakı bir zaman kadar ert de sen davet uyal ve peygamber tâbi ol o daha önce ahiret intikal et dair yemin et mi de
+
+Skor: 0.8563
+eğer biz o bu peygamber veya kur önce bir azab ile yok et muhakkak ey rabbimiz biz bir peygamber gönde i de alçak ve rezil ol önce âyet uysa ol mi de
+
+Skor: 0.8539
+ey iman eden allaha peygamber peygamberine in kitaba ve daha önce in kitaba iman et kim allahı melek kitap peygamber ve ahiret gün inkâr et sapıklık en koyu düş ol
+
+
+📌 MODEL: kuran_lemmatized_skipgram_win2_dim100.model
+🔍 Giriş metni: ve o ki hem sen indirilene iman et hem sen önce in ahiret de bu kesinlik iman et
+
+🔝 En benzer 5 cümle:
+
+Skor: 0.8923
+o allah ne in i o iman et de zaman o biz kendi in iman et de ve o başka inkâr et oysa yan ki tevrat tasdik et gerçek vahiy odur o de ki peki madem gerçek mümin sizs de ne diye daha önce allahın peygamber öl
+
+Skor: 0.8873
+ey iman eden allaha peygamber peygamberine in kitaba ve daha önce in kitaba iman et kim allahı melek kitap peygamber ve ahiret gün inkâr et sapıklık en koyu düş ol
+
+Skor: 0.8823
+fakat o ilim derinleş olan ve iman eden sen indirilene ve sen önce in iman et o namaz kıl zekat ver allaha ve ahiret gün iman eden i işte o büyük bir mükafat ver
+
+Skor: 0.8816
+ey peygamber insan azap gel gün ile korkut o gün zalim şöyle de ey rabbimiz biz yakı bir zaman kadar ert de sen davet uyal ve peygamber tâbi ol o daha önce ahiret intikal et dair yemin et mi de
+
+Skor: 0.8770
+ne zaman ki azap üzer çök de ki ey musa biz için rapip dua et sen ol ahdi hürmet eğer biz bu azap kal uzaklaş yemin ol ki sen kesinlik iman et ve israiloğul sen birlikte gönder
+
+
+📌 MODEL: kuran_lemmatized_cbow_win4_dim100.model
+🔍 Giriş metni: ve o ki hem sen indirilene iman et hem sen önce in ahiret de bu kesinlik iman et
+
+🔝 En benzer 5 cümle:
+
+Skor: 0.8566
+o allah ne in i o iman et de zaman o biz kendi in iman et de ve o başka inkâr et oysa yan ki tevrat tasdik et gerçek vahiy odur o de ki peki madem gerçek mümin sizs de ne diye daha önce allahın peygamber öl
+
+Skor: 0.8437
+fakat o ilim derinleş olan ve iman eden sen indirilene ve sen önce in iman et o namaz kıl zekat ver allaha ve ahiret gün iman eden i işte o büyük bir mükafat ver
+
+Skor: 0.8329
+ey peygamber insan azap gel gün ile korkut o gün zalim şöyle de ey rabbimiz biz yakı bir zaman kadar ert de sen davet uyal ve peygamber tâbi ol o daha önce ahiret intikal et dair yemin et mi de
+
+Skor: 0.8260
+eğer biz o bu peygamber veya kur önce bir azab ile yok et muhakkak ey rabbimiz biz bir peygamber gönde i de alçak ve rezil ol önce âyet uysa ol mi de
+
+Skor: 0.8258
+o kurân oku zaman o iman et çünkü o rabbi gel hakikat i esasen biz daha önce de müslüman idik de
+
+
+📌 MODEL: kuran_lemmatized_skipgram_win4_dim100.model
+🔍 Giriş metni: ve o ki hem sen indirilene iman et hem sen önce in ahiret de bu kesinlik iman et
+
+🔝 En benzer 5 cümle:
+
+Skor: 0.8939
+fakat o ilim derinleş olan ve iman eden sen indirilene ve sen önce in iman et o namaz kıl zekat ver allaha ve ahiret gün iman eden i işte o büyük bir mükafat ver
+
+Skor: 0.8913
+o allah ne in i o iman et de zaman o biz kendi in iman et de ve o başka inkâr et oysa yan ki tevrat tasdik et gerçek vahiy odur o de ki peki madem gerçek mümin sizs de ne diye daha önce allahın peygamber öl
+
+Skor: 0.8851
+iç zulmeden bir yan ehli kitap ancak en güzel yol mücadele et ve dey ki biz in de siz indirilene de iman et biz ilâhım da siz ilâh da bir i ve biz o teslim ol "
+
+Skor: 0.8786
+ey peygamber insan azap gel gün ile korkut o gün zalim şöyle de ey rabbimiz biz yakı bir zaman kadar ert de sen davet uyal ve peygamber tâbi ol o daha önce ahiret intikal et dair yemin et mi de
+
+Skor: 0.8737
+de ki ey kitap ehli sadece allaha biz in ve biz önce in inan için mi biz hoşlan oysa çoğun yol çık i
+
+
+📌 MODEL: kuran_lemmatized_cbow_win2_dim300.model
+🔍 Giriş metni: ve o ki hem sen indirilene iman et hem sen önce in ahiret de bu kesinlik iman et
+
+🔝 En benzer 5 cümle:
+
+Skor: 0.8719
+o allah ne in i o iman et de zaman o biz kendi in iman et de ve o başka inkâr et oysa yan ki tevrat tasdik et gerçek vahiy odur o de ki peki madem gerçek mümin sizs de ne diye daha önce allahın peygamber öl
+
+Skor: 0.8673
+fakat o ilim derinleş olan ve iman eden sen indirilene ve sen önce in iman et o namaz kıl zekat ver allaha ve ahiret gün iman eden i işte o büyük bir mükafat ver
+
+Skor: 0.8368
+ey iman eden allaha peygamber peygamberine in kitaba ve daha önce in kitaba iman et kim allahı melek kitap peygamber ve ahiret gün inkâr et sapıklık en koyu düş ol
+
+Skor: 0.8345
+resulüm işte sen önce ki kitap tasdik et bu kitap in o için kendi kitap ver o iman et şu da o iman et nice kimse var i ayet ancak kâfir bile bile inkâr et
+
+Skor: 0.8325
+peygamber rapip kendi ne in o iman et mümin de hepsi allaha melek kitap ve peygamber iman et biz allahın peygamber ara ayırım yap duy ve itaat et ey rabbimiz bağışla dil dönüş ancak san de
+
+
+📌 MODEL: kuran_lemmatized_skipgram_win2_dim300.model
+🔍 Giriş metni: ve o ki hem sen indirilene iman et hem sen önce in ahiret de bu kesinlik iman et
+
+🔝 En benzer 5 cümle:
+
+Skor: 0.8664
+fakat o ilim derinleş olan ve iman eden sen indirilene ve sen önce in iman et o namaz kıl zekat ver allaha ve ahiret gün iman eden i işte o büyük bir mükafat ver
+
+Skor: 0.8606
+o allah ne in i o iman et de zaman o biz kendi in iman et de ve o başka inkâr et oysa yan ki tevrat tasdik et gerçek vahiy odur o de ki peki madem gerçek mümin sizs de ne diye daha önce allahın peygamber öl
+
+Skor: 0.8458
+ey iman eden allaha peygamber peygamberine in kitaba ve daha önce in kitaba iman et kim allahı melek kitap peygamber ve ahiret gün inkâr et sapıklık en koyu düş ol
+
+Skor: 0.8417
+resulüm işte sen önce ki kitap tasdik et bu kitap in o için kendi kitap ver o iman et şu da o iman et nice kimse var i ayet ancak kâfir bile bile inkâr et
+
+Skor: 0.8393
+ne zaman ki azap üzer çök de ki ey musa biz için rapip dua et sen ol ahdi hürmet eğer biz bu azap kal uzaklaş yemin ol ki sen kesinlik iman et ve israiloğul sen birlikte gönder
+
+
+📌 MODEL: kuran_lemmatized_cbow_win4_dim300.model
+🔍 Giriş metni: ve o ki hem sen indirilene iman et hem sen önce in ahiret de bu kesinlik iman et
+
+🔝 En benzer 5 cümle:
+
+Skor: 0.8532
+fakat o ilim derinleş olan ve iman eden sen indirilene ve sen önce in iman et o namaz kıl zekat ver allaha ve ahiret gün iman eden i işte o büyük bir mükafat ver
+
+Skor: 0.8510
+o allah ne in i o iman et de zaman o biz kendi in iman et de ve o başka inkâr et oysa yan ki tevrat tasdik et gerçek vahiy odur o de ki peki madem gerçek mümin sizs de ne diye daha önce allahın peygamber öl
+
+Skor: 0.8109
+resulüm işte sen önce ki kitap tasdik et bu kitap in o için kendi kitap ver o iman et şu da o iman et nice kimse var i ayet ancak kâfir bile bile inkâr et
+
+Skor: 0.8085
+o kurân oku zaman o iman et çünkü o rabbi gel hakikat i esasen biz daha önce de müslüman idik de
+
+Skor: 0.8064
+hani havari ben ve resulüm iman et diye ilham et o da iman et biz şüphesiz müslüman ol şahit ol de
+
+
+📌 MODEL: kuran_lemmatized_skipgram_win4_dim300.model
+🔍 Giriş metni: ve o ki hem sen indirilene iman et hem sen önce in ahiret de bu kesinlik iman et
+
+🔝 En benzer 5 cümle:
+
+Skor: 0.8568
+fakat o ilim derinleş olan ve iman eden sen indirilene ve sen önce in iman et o namaz kıl zekat ver allaha ve ahiret gün iman eden i işte o büyük bir mükafat ver
+
+Skor: 0.8407
+o allah ne in i o iman et de zaman o biz kendi in iman et de ve o başka inkâr et oysa yan ki tevrat tasdik et gerçek vahiy odur o de ki peki madem gerçek mümin sizs de ne diye daha önce allahın peygamber öl
+
+Skor: 0.8184
+resulüm işte sen önce ki kitap tasdik et bu kitap in o için kendi kitap ver o iman et şu da o iman et nice kimse var i ayet ancak kâfir bile bile inkâr et
+
+Skor: 0.8146
+ey iman eden allaha peygamber peygamberine in kitaba ve daha önce in kitaba iman et kim allahı melek kitap peygamber ve ahiret gün inkâr et sapıklık en koyu düş ol
+
+Skor: 0.8119
+iç zulmeden bir yan ehli kitap ancak en güzel yol mücadele et ve dey ki biz in de siz indirilene de iman et biz ilâhım da siz ilâh da bir i ve biz o teslim ol "
+
+
+📌 MODEL: incil_stemmed_cbow_win2_dim100.model
+🔍 Giriş metni: kent yurt gelt kent halk on kabul etme
+
+🔝 En benzer 5 cümle:
+
+Skor: 0.7200
+baba adın gelt ben kabul etmiyor oys başka biri kent adın gelir on kabul edecek
+
+Skor: 0.6853
+herkes yazılmak kent kent git
+
+Skor: 0.6818
+siz kabul etmeyen geli kent ayrılırken onlar uyar ols ayak toz silk
+
+Skor: 0.6800
+bütün kent halk kapı toplanmış
+
+Skor: 0.6747
+israil tanrı rabbe övgü ols halk yardım gelip onlar fidye kurtar
+
+
+📌 MODEL: incil_stemmed_skipgram_win2_dim100.model
+🔍 Giriş metni: kent yurt gelt kent halk on kabul etme
+
+🔝 En benzer 5 cümle:
+
+Skor: 0.8154
+siz şun söyle feri değil ada aklan olarak ev dönt kent yücel herkes alçaltılacak kent alçal yüceltilecek isa küçük çocuk kutsuyor
+
+Skor: 0.8087
+baba adın gelt ben kabul etmiyor oys başka biri kent adın gelir on kabul edecek
+
+Skor: 0.7831
+halk kent çıkıp isa doğr gelme başl
+
+Skor: 0.7750
+gittik gören birçok kiş onlar tanıt halk civar bütün kent ya olarak yol dökülüp onlar önç ora var
+
+Skor: 0.7726
+ken girdik siz kabul etmez kent cadde çıkıp şöyl dey kent ayak kalan toz bil siz karş silkiyor yin şun bil tanr egemenlik yaklaş
+
+
+📌 MODEL: incil_stemmed_cbow_win4_dim100.model
+🔍 Giriş metni: kent yurt gelt kent halk on kabul etme
+
+🔝 En benzer 5 cümle:
+
+Skor: 0.6975
+herkes yazılmak kent kent git
+
+Skor: 0.6801
+halk kent çıkıp isa doğr gelme başl
+
+Skor: 0.6711
+kent yücel alçaltılacak kent alçal yüceltilecek
+
+Skor: 0.6592
+baba adın gelt ben kabul etmiyor oys başka biri kent adın gelir on kabul edecek
+
+Skor: 0.6571
+bütün kent halk kapı toplanmış
+
+
+📌 MODEL: incil_stemmed_skipgram_win4_dim100.model
+🔍 Giriş metni: kent yurt gelt kent halk on kabul etme
+
+🔝 En benzer 5 cümle:
+
+Skor: 0.7938
+samiriye isay kabul etme yeruşalim doğr gidiyor
+
+Skor: 0.7766
+baba adın gelt ben kabul etmiyor oys başka biri kent adın gelir on kabul edecek
+
+Skor: 0.7669
+nitek insanok hizmet edilme değil hizmet etme can birçok fidye olarak verme gelt ik kör göz açılıyor
+
+Skor: 0.7635
+herkes yazılmak kent kent git
+
+Skor: 0.7589
+siz şun söyle feri değil ada aklan olarak ev dönt kent yücel herkes alçaltılacak kent alçal yüceltilecek isa küçük çocuk kutsuyor
+
+
+📌 MODEL: incil_stemmed_cbow_win2_dim300.model
+🔍 Giriş metni: kent yurt gelt kent halk on kabul etme
+
+🔝 En benzer 5 cümle:
+
+Skor: 0.7267
+baba adın gelt ben kabul etmiyor oys başka biri kent adın gelir on kabul edecek
+
+Skor: 0.7125
+kent yücel alçaltılacak kent alçal yüceltilecek
+
+Skor: 0.7015
+halk kent çıkıp isa doğr gelme başl
+
+Skor: 0.6999
+herkes yazılmak kent kent git
+
+Skor: 0.6943
+bütün kent halk kapı toplanmış
+
+
+📌 MODEL: incil_stemmed_skipgram_win2_dim300.model
+🔍 Giriş metni: kent yurt gelt kent halk on kabul etme
+
+🔝 En benzer 5 cümle:
+
+Skor: 0.7930
+baba adın gelt ben kabul etmiyor oys başka biri kent adın gelir on kabul edecek
+
+Skor: 0.7770
+siz şun söyle feri değil ada aklan olarak ev dönt kent yücel herkes alçaltılacak kent alçal yüceltilecek isa küçük çocuk kutsuyor
+
+Skor: 0.7579
+siz kabul etmez söz dinlemez ev kent ayrılırken ayak toz silk
+
+Skor: 0.7561
+kent yücel alçaltılacak kent alçal yüceltilecek
+
+Skor: 0.7558
+bütün kent halk kapı toplanmış
+
+
+📌 MODEL: incil_stemmed_cbow_win4_dim300.model
+🔍 Giriş metni: kent yurt gelt kent halk on kabul etme
+
+🔝 En benzer 5 cümle:
+
+Skor: 0.7098
+herkes yazılmak kent kent git
+
+Skor: 0.6860
+kent yücel alçaltılacak kent alçal yüceltilecek
+
+Skor: 0.6756
+halk kent çıkıp isa doğr gelme başl
+
+Skor: 0.6543
+baba adın gelt ben kabul etmiyor oys başka biri kent adın gelir on kabul edecek
+
+Skor: 0.6375
+bütün kent halk kapı toplanmış
+
+
+📌 MODEL: incil_stemmed_skipgram_win4_dim300.model
+🔍 Giriş metni: kent yurt gelt kent halk on kabul etme
+
+🔝 En benzer 5 cümle:
+
+Skor: 0.7556
+baba adın gelt ben kabul etmiyor oys başka biri kent adın gelir on kabul edecek
+
+Skor: 0.7311
+herkes yazılmak kent kent git
+
+Skor: 0.7243
+siz şun söyle feri değil ada aklan olarak ev dönt kent yücel herkes alçaltılacak kent alçal yüceltilecek isa küçük çocuk kutsuyor
+
+Skor: 0.7158
+isa onlar peygamber kent memleket akrap çevre kent ev başka yer hor görülmez det
+
+Skor: 0.7127
+siz kabul etmez söz dinlemez ev kent ayrılırken ayak toz silk
+
+
+📌 MODEL: incil_lemmatized_cbow_win2_dim100.model
+🔍 Giriş metni: kendi yurt gel ama kendi halkı o kabul et
+
+🔝 En benzer 5 cümle:
+
+Skor: 0.8304
+ben baba ad gel ama ben kabul et oysa başka biri kendi ad gel o kabul et
+
+Skor: 0.8179
+eğer bu kabul et iste gel ol ilyas o i
+
+Skor: 0.8065
+çünkü ben ilet söz o ilet o da kabul et sen çık gel gerçekten anla ben sen gönder iman et
+
+Skor: 0.7986
+siz doğru söyle ben gönder herhangi bir kimse kabul et ben kabul et ol ben kabul et de ben göndere kabul et ol
+
+Skor: 0.7943
+siz kabul et ben kabul et ol ben kabul et de ben göndere kabul et ol
+
+
+📌 MODEL: incil_lemmatized_skipgram_win2_dim100.model
+🔍 Giriş metni: kendi yurt gel ama kendi halkı o kabul et
+
+🔝 En benzer 5 cümle:
+
+Skor: 0.8689
+ben baba ad gel ama ben kabul et oysa başka biri kendi ad gel o kabul et
+
+Skor: 0.8460
+ama samiriyeli isay kabul et çünkü yeruşalim doğru git
+
+Skor: 0.8421
+siz doğru söyle ben gönder herhangi bir kimse kabul et ben kabul et ol ben kabul et de ben göndere kabul et ol
+
+Skor: 0.8287
+siz kabul et ben kabul et ol ben kabul et de ben göndere kabul et ol
+
+Skor: 0.8213
+küçük bir çocuk al orta yer dik sonra o kucak al o şöyle de böyle bir çocuk ben adım uğur kabul et ben kabul et ol ben kabul et de ben değil ben göndere kabul et ol biz karşı ol biz yanadır
+
+
+📌 MODEL: incil_lemmatized_cbow_win4_dim100.model
+🔍 Giriş metni: kendi yurt gel ama kendi halkı o kabul et
+
+🔝 En benzer 5 cümle:
+
+Skor: 0.8186
+ben baba ad gel ama ben kabul et oysa başka biri kendi ad gel o kabul et
+
+Skor: 0.8105
+siz kabul et ben kabul et ol ben kabul et de ben göndere kabul et ol
+
+Skor: 0.7974
+siz doğru söyle ben gönder herhangi bir kimse kabul et ben kabul et ol ben kabul et de ben göndere kabul et ol
+
+Skor: 0.7937
+eğer bu kabul et iste gel ol ilyas o i
+
+Skor: 0.7856
+çünkü ben ilet söz o ilet o da kabul et sen çık gel gerçekten anla ben sen gönder iman et
+
+
+📌 MODEL: incil_lemmatized_skipgram_win4_dim100.model
+🔍 Giriş metni: kendi yurt gel ama kendi halkı o kabul et
+
+🔝 En benzer 5 cümle:
+
+Skor: 0.8803
+siz kabul et ben kabul et ol ben kabul et de ben göndere kabul et ol
+
+Skor: 0.8758
+siz doğru söyle ben gönder herhangi bir kimse kabul et ben kabul et ol ben kabul et de ben göndere kabul et ol
+
+Skor: 0.8558
+küçük bir çocuk al orta yer dik sonra o kucak al o şöyle de böyle bir çocuk ben adım uğur kabul et ben kabul et ol ben kabul et de ben değil ben göndere kabul et ol biz karşı ol biz yanadır
+
+Skor: 0.8516
+ben baba ad gel ama ben kabul et oysa başka biri kendi ad gel o kabul et
+
+Skor: 0.8440
+çünkü ben ilet söz o ilet o da kabul et sen çık gel gerçekten anla ben sen gönder iman et
+
+
+📌 MODEL: incil_lemmatized_cbow_win2_dim300.model
+🔍 Giriş metni: kendi yurt gel ama kendi halkı o kabul et
+
+🔝 En benzer 5 cümle:
+
+Skor: 0.8174
+ben baba ad gel ama ben kabul et oysa başka biri kendi ad gel o kabul et
+
+Skor: 0.7840
+eğer bu kabul et iste gel ol ilyas o i
+
+Skor: 0.7751
+siz doğru söyle ben gönder herhangi bir kimse kabul et ben kabul et ol ben kabul et de ben göndere kabul et ol
+
+Skor: 0.7693
+siz kabul et ben kabul et ol ben kabul et de ben göndere kabul et ol
+
+Skor: 0.7684
+ama samiriyeli isay kabul et çünkü yeruşalim doğru git
+
+
+📌 MODEL: incil_lemmatized_skipgram_win2_dim300.model
+🔍 Giriş metni: kendi yurt gel ama kendi halkı o kabul et
+
+🔝 En benzer 5 cümle:
+
+Skor: 0.8341
+ben baba ad gel ama ben kabul et oysa başka biri kendi ad gel o kabul et
+
+Skor: 0.7794
+ama samiriyeli isay kabul et çünkü yeruşalim doğru git
+
+Skor: 0.7735
+küçük bir çocuk al orta yer dik sonra o kucak al o şöyle de böyle bir çocuk ben adım uğur kabul et ben kabul et ol ben kabul et de ben değil ben göndere kabul et ol biz karşı ol biz yanadır
+
+Skor: 0.7716
+öğrenci yahya gel rapp de şeria irmak karşı yaka birlikte ol ve kendi için tanıklık et adam var ya işte o vaftiz et herkes de o git
+
+Skor: 0.7684
+çünkü ben ilet söz o ilet o da kabul et sen çık gel gerçekten anla ben sen gönder iman et
+
+
+📌 MODEL: incil_lemmatized_cbow_win4_dim300.model
+🔍 Giriş metni: kendi yurt gel ama kendi halkı o kabul et
+
+🔝 En benzer 5 cümle:
+
+Skor: 0.7862
+ben baba ad gel ama ben kabul et oysa başka biri kendi ad gel o kabul et
+
+Skor: 0.7587
+siz kabul et ben kabul et ol ben kabul et de ben göndere kabul et ol
+
+Skor: 0.7584
+eğer bu kabul et iste gel ol ilyas o i
+
+Skor: 0.7529
+siz doğru söyle ben gönder herhangi bir kimse kabul et ben kabul et ol ben kabul et de ben göndere kabul et ol
+
+Skor: 0.7346
+isa o herkes bu söz kabul et ancak tanrı güç ver kişi kabul et de
+
+
+📌 MODEL: incil_lemmatized_skipgram_win4_dim300.model
+🔍 Giriş metni: kendi yurt gel ama kendi halkı o kabul et
+
+🔝 En benzer 5 cümle:
+
+Skor: 0.8192
+ben baba ad gel ama ben kabul et oysa başka biri kendi ad gel o kabul et
+
+Skor: 0.7618
+küçük bir çocuk al orta yer dik sonra o kucak al o şöyle de böyle bir çocuk ben adım uğur kabul et ben kabul et ol ben kabul et de ben değil ben göndere kabul et ol biz karşı ol biz yanadır
+
+Skor: 0.7606
+siz doğru söyle ben gönder herhangi bir kimse kabul et ben kabul et ol ben kabul et de ben göndere kabul et ol
+
+Skor: 0.7600
+siz kabul et ben kabul et ol ben kabul et de ben göndere kabul et ol
+
+Skor: 0.7580
+öğrenci birlikte halkı da yan çağır şöyle konuş art gel iste kendi inkâr et çarmıh yükle ben izle
